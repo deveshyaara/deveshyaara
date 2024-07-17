@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/i am a be cse student passionate about project development and technology exploration. i thrive on coding, problem-solving, and staying updated with the latest in computer science." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i am a be cse student passionate about project development and technology exploration. i thrive on coding, problem-solving, and staying updated with the latest in computer science." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devesh-tiwari-b2896b2a5?utm_source=share&utm_campaign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i am a be cse student passionate about project development and technology exploration. i thrive on coding, problem-solving, and staying updated with the latest in computer science." height="30" width="40" /></a>
 <a href="https://instagram.com/devesh_yaara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devesh_yaara_" height="30" width="40" /></a>
 </p>
 
