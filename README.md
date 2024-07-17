@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshyaara&show_icons=true&locale=en" alt="deveshyaara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshyaara&" alt="deveshyaara" /></p>
+<img src="https://raw.githubusercontent.com/deveshyaara/deveshyaara/output/snake.svg" alt="Snake animation" />
+
+###
