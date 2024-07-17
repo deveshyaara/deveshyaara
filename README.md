@@ -172,4 +172,10 @@
   <img src="https://komarev.com/ghpvc/?username=deveshyaara&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+## 🐍 A Snake Eating My Contributions
+
+![snake gif](https://github.com/deveshyaara/deveshyaara/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
