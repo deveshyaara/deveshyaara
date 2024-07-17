@@ -2,8 +2,6 @@
 <h3 align="center">I am a BE CSE student passionate about project development and technology exploration. I thrive on coding, problem-solving, and staying updated with the latest in computer science.</h3>
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshyaara&label=Profile%20views&color=0e75b6&style=flat" alt="deveshyaara" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshyaara" alt="deveshyaara" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -169,4 +167,9 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=deveshyaara&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshyaara&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=deveshyaara&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 
