@@ -174,7 +174,9 @@
 
 ## 🐍 A Snake Eating My Contributions
 
-![snake gif](https://github.com/deveshyaara/deveshyaara/blob/output/snake.svg)
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
