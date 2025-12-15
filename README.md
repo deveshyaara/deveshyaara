@@ -270,24 +270,7 @@ contact:
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 
-<!-- GitHub Stats Section with Cyberpunk Theme -->
-<div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="stats" /> **STATS.DASHBOARD[ ]**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshyaara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=bc13fe&text_color=ffffff&border_radius=10&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshyaara&theme=radical&hide_border=true&background=0d1117&ring=00f3ff&fire=bc13fe&currStreakLabel=39ff14&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshyaara&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f3ff&text_color=ffffff&border_radius=10&langs_count=8&card_width=445" alt="Top Languages" />
-</p>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=deveshyaara&theme=monokai&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
