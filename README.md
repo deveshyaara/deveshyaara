@@ -1,24 +1,18 @@
 <div align="center">
-
-<a href="https://github.com/deveshyaara">
-  <img src="https://raw.githubusercontent.com/deveshyaara/deveshyaara/main/profile-card.svg?v=3" alt="Devesh Tiwari — animated neofetch-style profile card with a portrait made of 0s and 1s" width="100%" />
-</a>
-
+  <a href="https://github.com/deveshyaara">
+    <img
+      src="https://raw.githubusercontent.com/deveshyaara/deveshyaara/main/profile-card.gif?v=4"
+      width="100%"
+      alt="Devesh Tiwari animated profile card"
+    />
+  </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-<div align="center">
-
-<!-- Animated Cyberpunk Header -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=70&duration=2000&pause=500&color=00F3FF&center=true&vCenter=true&width=1000&height=150&lines=DEVESH+TIWARI;" alt="Header Banner" />
-
-<!-- Typing Effect Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BC13FE&center=true&vCenter=true&random=false&width=800&height=60&lines=Architecting+autonomous+agents+with+LangGraph;Scalable+web+ecosystems+with+Next.js;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-
-<!-- Neon Divider -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
-
-</div>
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100%"
+  alt="divider"
+/>
 
 <!-- About Me Section with Cyberpunk Style -->
 <div align="center">
