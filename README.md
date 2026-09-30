@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://github.com/deveshyaara"> <img src="./profile-card.svg" alt="Devesh Tiwari — neofetch-style profile card with a portrait made of 0s and 1s" width="100%" /> </a> </div> <!-- Neon Divider --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+<div align="center"> <a href="https://github.com/deveshyaara"> <img src="./profile-card.gif" alt="Devesh Tiwari — neofetch-style profile card with a portrait made of 0s and 1s" width="100%" /> </a> </div> <!-- Neon Divider --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 
 
 
